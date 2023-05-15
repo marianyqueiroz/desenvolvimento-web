@@ -1,0 +1,12 @@
+<B>editores de codigo fonte</b>
+utilizado pra escrever codigo, possuem marcações especificas, navegacao facilitada.
+
+-sublime text
+- brackets
+- atom
+
+ide - tem tudo isso, e recursos adicionais para integração de ferramentas neceasarias para o desenvolvimento e produtividade 
+
+aptana
+netbeans
+eclipse
