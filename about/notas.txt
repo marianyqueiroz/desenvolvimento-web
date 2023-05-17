@@ -33,3 +33,103 @@ FORMATAÇÃO DE TEXTOS
         <p>esse é um texto <em>itálico</em></p>
         <p>esse é um texto <u>underline</u></p>
         <p> esse é um texto <strike>errado</strike></p>
+
+
+TIPOS DE LISTA
+        <h2>LISTA NÃO ORDENADA</h2>
+        <ul>
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ul>
+
+        LISTA NÃO ORDENADA
+        <ul type="circle">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ul>
+
+        <!--teste-->
+        <ul type="square">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ul>
+
+        <ul type="disc">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ul>
+
+        <h2>LISTA ORDENADA</h2>
+        <ol>
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ol>
+
+        <ol type="A">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ol>
+
+        <!--teste-->
+        <ol type="a">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ol>
+
+        <ol type="I">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ol>
+
+        <ol type="i">
+            LIST ITENS
+            <li>
+                notebook
+            </li>
+            <li>
+                roteador
+            </li>
+        </ol>
+
+
+
