@@ -26,3 +26,10 @@ Tem tudo isso, e recursos adicionais para integração de ferramentas neceasaria
 <p> - tem espaçamento
 <br> - não tem espaçamento
 <hr> - linha horizontal
+<strong> - negrito
+
+FORMATAÇÃO DE TEXTOS 
+        <p> esse é um texto <strong>negrito</strong></p>
+        <p>esse é um texto <em>itálico</em></p>
+        <p>esse é um texto <u>underline</u></p>
+        <p> esse é um texto <strike>errado</strike></p>
