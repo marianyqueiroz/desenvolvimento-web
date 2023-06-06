@@ -134,4 +134,10 @@ TIPOS DE LISTA
     INSERIR IMAGEM 
     <img src="imagem/WhatsApp Image 2023-05-19 at 11.53.52.jpeg" width="600">
 
+    INSERIR LINK
+            <a href="contato.html">
+            Contato
+            </a>
+
+    
 
