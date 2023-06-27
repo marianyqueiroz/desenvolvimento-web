@@ -256,3 +256,6 @@ internal style sheet
 
 </html>
 
+class e id
+CLASSE VC PODE USAR VÁRIAS VEZES 
+ID VC DEVE USAR APENAS UMA ÚNICA VEZ
