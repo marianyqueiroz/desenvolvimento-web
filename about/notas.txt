@@ -259,3 +259,6 @@ internal style sheet
 class e id
 CLASSE VC PODE USAR VÁRIAS VEZES 
 ID VC DEVE USAR APENAS UMA ÚNICA VEZ
+
+DIV e SPAN 
+usado para criar formatações em blocos, criando container para ajustar os elementos visuais.
